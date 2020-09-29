@@ -2,3 +2,5 @@
 - Sugar
 - Ice Cream
 - Honey
+- Cheese
+- Banana
