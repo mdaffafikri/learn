@@ -1,6 +1,5 @@
 - Eggs
 - Sugar
 - Ice Cream
-- Honey
-- Cheese
-- Banana
+- Apel
+- Pizza
